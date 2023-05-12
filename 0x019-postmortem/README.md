@@ -1,4 +1,16 @@
-![ezcv logo](https://raw.githubusercontent.com/Nurcodes/0x19-postmortem/main/image.jpg)
+As professional programmers, we know that despite our best efforts, things can go wrong in our projects. Bugs, crashes, and failures are an inevitable part of the development process. But what sets successful teams apart is their ability to learn from these mistakes and use that knowledge to improve future projects. That's where the post-mortem comes in.
+
+A post-mortem is a formal process of analyzing what went wrong in a project, how it happened, and what can be done to prevent similar issues in the future. It's not about pointing fingers or assigning blame, but rather about taking an objective and honest look at what happened and what can be learned from it.
+
+The first step in a post-mortem is to gather as much information as possible. This includes reviewing code, logs, and documentation, as well as interviewing team members involved in the project. The goal is to create a detailed timeline of events leading up to the issue and identify any contributing factors.
+
+Next, the team should identify the root cause of the issue. This is often more complex than it may seem, as there may be multiple factors that contributed to the problem. It's important to dig deep and not settle for surface-level explanations.
+
+Once the root cause has been identified, the team can move on to identifying solutions. This could involve changes to processes, tools, or even team composition. It's important to prioritize these solutions and create a plan for implementing them.
+
+Finally, the team should document the entire post-mortem process and share it with relevant stakeholders. This helps ensure that everyone is aware of what went wrong and what steps are being taken to prevent similar issues in the future.
+
+While post-mortems may seem like a lot of work, they are an essential part of any successful development process. By taking the time to learn from mistakes and make changes based on that knowledge, we can improve not only our current projects but also our future ones. So don't be afraid to embrace the post-mortem – it may just be the key to your team's success.
 
 # BooktifuL requests failure report
 Last week, it was reported that the BooktifuL platform was returning 500 Error on all requests made on the platform routes, all the services were down.  90% of the users were affected. The root cause was the failure of our master server web-01.
